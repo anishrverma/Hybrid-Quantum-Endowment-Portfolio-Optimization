@@ -1,0 +1,12 @@
+seaborn
+matplotlib
+qiskit
+datetime
+numpy
+pandas
+pandas_datareader
+http.client
+docplex
+qiskit
+qiskit_optimization
+qiskit_finance
