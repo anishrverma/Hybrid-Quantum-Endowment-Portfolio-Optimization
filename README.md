@@ -8,3 +8,5 @@ The problem is cast as a Quadratic Unconstrained Binary Optimization (QUBO) prob
 This qubo is solved by the Variational Quantum Eigensolver (VQE) and Quantum Approximate Optimization Algorithm (QAOA), to select the best $B$ assets from a total of $n$ assets. 
 
 From here, risk-parity analysis is used to weight the assets in the portfolio. An extension of this work could explore developing the QUBO to include transaction costs, a more sophisticated measure of risk, etc.
+
+For a thorough explanation, please see the contents of the 'presentations' directory.
