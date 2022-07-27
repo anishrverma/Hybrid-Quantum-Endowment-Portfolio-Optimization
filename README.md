@@ -10,5 +10,3 @@ This qubo is solved by the Variational Quantum Eigensolver (VQE) and Quantum App
 From here, risk-parity analysis is used to weight the assets in the portfolio. An extension of this work could explore developing the QUBO to include transaction costs, a more sophisticated measure of risk, etc.
 
 For a thorough explanation, please see the contents of the 'presentations' directory.
-
-![test](results/weighted-comparison-portfolio-11100011 risk-parity weightedrisk-0.5-2001-01-31-2021-12-31.pdf)
